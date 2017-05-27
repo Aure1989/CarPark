@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1062006040406",
+    "project_id": "carpark-168921"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062006040406:android:707caacf5da0dc0d",
+        "android_client_info": {
+          "package_name": "kuro.android.com.carpark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062006040406-604bjjb90i8auo5j9n0n9njblh60rv35.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1062006040406-vcdd6l6l29k6qgsjbmd8959kh32hvult.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kuro.android.com.carpark",
+            "certificate_hash": "932642b17b775e70adb6642421baf4a4cd2a64ed"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjmmuQrwth-1LVI0IrV5g9WAX-6haP3ug"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
